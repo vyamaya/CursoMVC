@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\vyama\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\vyama\\.nuget\\packages"
+    ]
+  }
+}
